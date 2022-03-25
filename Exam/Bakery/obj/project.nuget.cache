@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTmp0LOQ54brZlcYFPycpWuiQ03o8BubBbN0r4kULagdz2ZsYd4JQf1X/k5u7zD0NgpiO2CjJcSnvduey4bdzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\vs\\Code\\C#\\Exam\\Bakery\\Bakery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
