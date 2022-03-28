@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VVk/xV6qYePwit/10gBQdX5X2YcqHy5rdb0j1Szg9AQT/0io+z+viSwbvRnaEXOg0tBJT8lP8qb6GD9BD2n6NQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\exercises\\exercises\\01. Blacksmith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

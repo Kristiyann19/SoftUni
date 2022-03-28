@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\exercises\exercises\bin\Debug\netcoreapp3.1\01. Blacksmith.exe
+C:\Users\user\source\repos\exercises\exercises\bin\Debug\netcoreapp3.1\01. Blacksmith.deps.json
+C:\Users\user\source\repos\exercises\exercises\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.json
+C:\Users\user\source\repos\exercises\exercises\bin\Debug\netcoreapp3.1\01. Blacksmith.runtimeconfig.dev.json
+C:\Users\user\source\repos\exercises\exercises\bin\Debug\netcoreapp3.1\01. Blacksmith.dll
+C:\Users\user\source\repos\exercises\exercises\bin\Debug\netcoreapp3.1\01. Blacksmith.pdb
+C:\Users\user\source\repos\exercises\exercises\obj\Debug\netcoreapp3.1\01. Blacksmith.csprojAssemblyReference.cache
+C:\Users\user\source\repos\exercises\exercises\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\exercises\exercises\obj\Debug\netcoreapp3.1\01. Blacksmith.AssemblyInfo.cs
+C:\Users\user\source\repos\exercises\exercises\obj\Debug\netcoreapp3.1\01. Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\exercises\exercises\obj\Debug\netcoreapp3.1\01. Blacksmith.dll
+C:\Users\user\source\repos\exercises\exercises\obj\Debug\netcoreapp3.1\01. Blacksmith.pdb
+C:\Users\user\source\repos\exercises\exercises\obj\Debug\netcoreapp3.1\01. Blacksmith.genruntimeconfig.cache
